@@ -18,6 +18,12 @@ def translate(word):
 	# First checking the most probable scenario that the word is in the dictionary
 	if word in data:
 		return data[word]
+	# Some words in the dictionary are capitalized
+	elif word.title() in data:
+		return data[word.title()]
+	# Some words in the dictionary are acronyms
+	elif word.upper() in data:
+		return data[word.upper()]
 	# If word not found, check if there are similar ones
 	elif len(get_close_matches(word, data, cutoff=0.8)) > 0:
 		# if similar words found, use the first one, 
