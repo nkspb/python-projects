@@ -1,0 +1,46 @@
+# Start Open Server 84b742dbbb71fca332331d15592823f1_hosts
+127.0.0.1 localhost.loc
+# End Open Server 84b742dbbb71fca332331d15592823f1_hosts
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+# localhost name resolution is handled within DNS itself.
+127.0.0.1       localhost
+#	::1             localhost
+127.0.0.1 na1r.services.adobe.com
+127.0.0.1 hlrcv.stage.adobe.com
+127.0.0.1 lmlicenses.wip4.adobe.com
+127.0.0.1 lm.licenses.adobe.com
+127.0.0.1 activate.adobe.com
+127.0.0.1 practivate.adobe.com
+127.0.0.1 laravel.loc
+127.0.0.1 blog.loc
+127.0.0.1 host.loc
+127.0.0.1 nasty.loc
+127.0.0.1 yourmaze.loc
+127.0.0.1 wp.loc
+127.0.0.1 fotokoto.loc
+127.0.0.1 stepa.loc
+127.0.0.1 light.loc
+127.0.0.1 maxprog.com
+127.0.0.1 www.maxprog.com
+127.0.0.1 vld-art.loc
+### Begin DesktopServer - do not edit this and proceeding lines ###
+127.0.0.1	wpdemo.dev
+### End DesktopServer - do not edit this and preceeding lines ###
+127.0.0.1 www.vk.com
+127.0.0.1 vk.com

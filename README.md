@@ -4,3 +4,5 @@
 <b>interactive_dictionary</b> - get the definitions of a word.
 
 <b>kg_converter</b> - convert kg to grams, pounds, ounces.
+
+<b>website_blocker</b> - block websites by modifying the <i>hosts</i> file.
