@@ -6,3 +6,5 @@
 <b>kg_converter</b> - convert kg to grams, pounds, ounces.
 
 <b>website_blocker</b> - block websites by modifying the <i>hosts</i> file.
+
+<b>motion_detect</b> -Detect moving objects and record times of detection.

@@ -1,5 +1,5 @@
-""" Motion Detector
-Detect moving objects and record the times of detection
+""" Interactive Dictionary
+Enter an English word and get its definition.
 By Nikolay Komolov
 https://github.com/nkspb
 """

@@ -1,3 +1,9 @@
+""" Motion Detector
+Detect moving objects and record times of detection.
+By Nikolay Komolov
+https://github.com/nkspb
+"""
+
 import cv2, pandas
 from datetime import datetime
 
