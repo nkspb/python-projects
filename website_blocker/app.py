@@ -1,3 +1,9 @@
+""" Motion Detector
+Detect moving objects and record the times of detection
+By Nikolay Komolov
+https://github.com/nkspb
+"""
+
 import time
 from datetime import datetime as dt
 
@@ -13,7 +19,6 @@ while True:
 		with open(hosts_temp, 'r+') as file:
 			# read contents of hosts file
 			content = file.read()
-			print(content)
 			# check if site is in hosts
 			for site in block_list:
 				if site in content:
