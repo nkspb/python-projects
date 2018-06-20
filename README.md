@@ -7,4 +7,6 @@
 
 <b>website_blocker</b> - block websites by modifying the <i>hosts</i> file.
 
-<b>motion_detect</b> -Detect moving objects and record times of detection.
+<b>motion_detect</b> - Detect moving objects and record times of detection.
+
+<b>translate.py</b> - Translate user input into Leet text.
