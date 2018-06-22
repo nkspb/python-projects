@@ -10,3 +10,5 @@
 <b>motion_detect</b> - Detect moving objects and record times of detection.
 
 <b>translate.py</b> - Translate user input into Leet text.
+
+<b>invest.py</b> - Track the growing amount of an investment over time.
