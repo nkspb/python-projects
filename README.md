@@ -12,3 +12,5 @@
 <b>translate.py</b> - Translate user input into Leet text.
 
 <b>invest.py</b> - Track the growing amount of an investment over time.
+
+<b>election.py</b> - Simulate an election between two candidates to calculate the probabilty each wins
