@@ -17,3 +17,5 @@
 
 <b>coin_toss.py</b> - Calculate the average number of tosses needed to land a coin on both sides
 
+<b>enrollment_stats.py</b> - Calculate the mean and median from the values in a list
+
