@@ -14,3 +14,6 @@
 <b>invest.py</b> - Track the growing amount of an investment over time.
 
 <b>election.py</b> - Simulate an election between two candidates to calculate the probabilty each wins
+
+<b>coin_toss.py</b> - Calculate the average number of tosses needed to land a coin on both sides
+
