@@ -20,3 +20,5 @@
 <b>enrollment_stats.py</b> - Calculate the mean and median from the values in a list.
 
 <b>poetry.py</b> - Generate a poem from lists of words.
+
+<b>capitals_guess_game</b> - Guess a capital of a state.
