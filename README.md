@@ -22,3 +22,5 @@
 <b>poetry.py</b> - Generate a poem from lists of words.
 
 <b>capitals_guess_game</b> - Guess a capital of a state.
+
+<b>remove_files.py</b> - Remove .jpg files less than 2kb in size in a given folder recursively.
