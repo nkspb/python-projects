@@ -24,3 +24,6 @@
 <b>capitals_guess_game</b> - Guess a capital of a state.
 
 <b>remove_files.py</b> - Remove .jpg files less than 2kb in size in a given folder recursively.
+
+<b>high_scores</b> - Find and display each user's highest score taken from a csv file.
+
