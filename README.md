@@ -27,3 +27,5 @@
 
 <b>high_scores</b> - Find and display each user's highest score taken from a csv file.
 
+<b>split_csv.py</b> - Split a csv file into multiple files with a specified number of rows.
+
