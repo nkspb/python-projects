@@ -29,3 +29,5 @@
 
 <b>split_csv.py</b> - Split a csv file into multiple files with a specified number of rows.
 
+<b>pdf/combine_pdf.py</b> - Combine pdf files.
+
