@@ -33,3 +33,5 @@
 
 <b>mechsoup_1.py</b> - Submit login form using mechanicalsoup and test whether login data was correct.
 
+<b>notes_app</b> - CLI notes app
+
