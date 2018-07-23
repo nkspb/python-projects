@@ -31,3 +31,5 @@
 
 <b>pdf/combine_pdf.py</b> - Combine pdf files.
 
+<p>mechsoup_1.py</b> - Submit login form using mechanicalsoup and test whether login data was correct.
+
