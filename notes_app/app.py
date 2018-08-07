@@ -1,5 +1,5 @@
 """
-CLI notes app
+Notes taking app
 By Nikolay Komolov
 https://github.com/nkspb
 """
@@ -14,8 +14,8 @@ cur.execute("CREATE TABLE IF NOT EXISTS Notes(ID INTEGER PRIMARY KEY AUTOINCREME
 # Show menu
 while True:
     print("""Choose an action:
-    1) Add an entry
-    2) View entries""")
+    1) Add a note
+    2) View notes""")
     # Ask user to make a choice
     try:
         user_input = int(input())
@@ -44,7 +44,7 @@ while True:
         while True:
             try:
                 # If user does enter a number, stop asking it to enter it again
-                user_input = int(input("Enter entry id to read: "))
+                user_input = int(input("Enter note id to read: "))
                 break
             # If user doesn't enter a number, ask to enter again
             except ValueError:
