@@ -38,3 +38,5 @@
 <b>graph_builder</b> - Build different types of graphs.
 
 <b>partial_pdf</b> - Extract a specific range of pages from a PDF file.
+
+<b>palindromes</b> - Find palindromes in a dictionary file.
