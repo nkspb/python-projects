@@ -40,3 +40,6 @@
 <b>partial_pdf</b> - Extract a specific range of pages from a PDF file.
 
 <b>palindromes</b> - Find palindromes in a dictionary file.
+
+<b>coin_toss_alt</b> - Find out how many flips are needed on average
+for a coin to land on a both a heads and a tails.
