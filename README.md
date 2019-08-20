@@ -15,6 +15,8 @@
 
 <b>election.py</b> - Simulate an election between two candidates to calculate the probabilty each wins.
 
+<b>election_alt.py</b> - Simulate an election between two candidates to calculate the probabilty each wins. Alternative version.
+
 <b>coin_toss.py</b> - Calculate the average number of tosses needed to land a coin on both sides.
 
 <b>enrollment_stats.py</b> - Calculate the mean and median from the values in a list.
