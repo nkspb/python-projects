@@ -45,3 +45,5 @@
 
 <b>coin_toss_alt</b> - Find out how many flips are needed on average
 for a coin to land on a both a heads and a tails.
+
+<b>anagrams</b> - Find anagrams of a given word
