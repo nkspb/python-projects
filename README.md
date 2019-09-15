@@ -47,3 +47,5 @@
 for a coin to land on a both a heads and a tails.
 
 <b>anagrams</b> - Find anagrams of a given word
+
+<b>mean_median_list</b> - Find mean and median values in a list of lists
