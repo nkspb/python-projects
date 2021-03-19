@@ -51,3 +51,11 @@ for a coin to land on a both a heads and a tails.
 <b>mean_median_list</b> - Find mean and median values in a list of lists
 
 <b>cats_with_hats</b> - Go round cats with increasing step and get which have a hat on
+
+<b>contacts_book</b> - Contacts book using sqlite 
+
+<b>hangman</b> - Hangman guess-the-word game
+
+<b>timer</b> - Count-down timer
+
+<b>email_slicer</b> - Extract portions of email with regex
