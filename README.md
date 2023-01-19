@@ -59,3 +59,5 @@ for a coin to land on a both a heads and a tails.
 <b>timer</b> - Count-down timer
 
 <b>email_slicer</b> - Extract portions of email with regex
+
+<b>youtube_downloader</b> - Download youtube videos (GUI)
