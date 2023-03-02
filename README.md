@@ -60,4 +60,4 @@ for a coin to land on a both a heads and a tails.
 
 <b>email_slicer</b> - Extract portions of email with regex
 
-<b>youtube_downloader</b> - Download youtube videos (GUI)
+<b>yt_downloader</b> - Download youtube videos (GUI)
